@@ -36,11 +36,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 This was the most straightforward app I have worked on so far in this semester, the lab did a great job of explaining
-what had to be done.
+what had to be done. Apologies for my simulator being so slow.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Ximena Fernandez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
